@@ -9,10 +9,7 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play The Party.</tw-noscript></noscript></tw-story>
-<tw-storydata name="The Party" startnode="1" creator="Twine" creator-version="2.3.14" ifid="DDBA61C5-771D-4D0B-8F81-322F0AA90DE4" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">body
-{
-  background-color: #ffffff;
-}</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="The Party" tags="" position="753.5,338" size="100,100">(text-style: &quot;outline&quot;)[The Party]
+<tw-storydata name="The Party" startnode="1" creator="Twine" creator-version="2.3.14" ifid="DDBA61C5-771D-4D0B-8F81-322F0AA90DE4" zoom="1" format="Harlowe" format-version="3.2.2" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="The Party" tags="" position="753.5,338" size="100,100">(text-style: &quot;outline&quot;)[The Party]
 
 [[Start]]
 [[Instructions]]
